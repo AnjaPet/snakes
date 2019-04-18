@@ -3,7 +3,7 @@
 import random
 
 # V tej datoteki so definicije razredov Snake in Field ter nekaj pomožnih konstant in
-# funkcij.
+# funkcij...
 
 # Igralno polje sestoji iz mreze kvadratkov (blokov)
 WIDTH = 50  # sirina polja (stevilo blokov)
